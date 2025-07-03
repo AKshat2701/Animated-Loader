@@ -1,2 +1,1 @@
 # Animated-Loader
-gg
